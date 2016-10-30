@@ -1,0 +1,17 @@
+  {
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pokemon.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
